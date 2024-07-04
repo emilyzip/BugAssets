@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cjjo2codlgwfd"
-path="res://.godot/imported/background.png-2f3ecd2f7b1b9f6188895e9f49821ffb.ctex"
+path="res://.godot/imported/background.png-dd5a9ab815db80925b389679eb1c7d1e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/47 Bugren/background.png"
-dest_files=["res://.godot/imported/background.png-2f3ecd2f7b1b9f6188895e9f49821ffb.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/47 Bugren/background.png"
+dest_files=["res://.godot/imported/background.png-dd5a9ab815db80925b389679eb1c7d1e.ctex"]
 
 [params]
 

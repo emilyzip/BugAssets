@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cps0wxumvikhg"
-path="res://.godot/imported/Questtrek_-_Spectral_Road.png-a068e1fe5842ae356ef1508468245b2d.ctex"
+path="res://.godot/imported/Questtrek_-_Spectral_Road.png-6edbacd3837078cbda2df1ab9643b5cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/62 Questtrek/Questtrek_-_Spectral_Road.png"
-dest_files=["res://.godot/imported/Questtrek_-_Spectral_Road.png-a068e1fe5842ae356ef1508468245b2d.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/62 Questtrek/Questtrek_-_Spectral_Road.png"
+dest_files=["res://.godot/imported/Questtrek_-_Spectral_Road.png-6edbacd3837078cbda2df1ab9643b5cb.ctex"]
 
 [params]
 

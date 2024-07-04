@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmiltir35mlxv"
-path="res://.godot/imported/Terrarium.png-91c233892204ffde151f1fb7b21e1d73.ctex"
+path="res://.godot/imported/Terrarium.png-3422e0efbdf3a5e613b7d0160fb30b07.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/48 Wargrub/Terrarium.png"
-dest_files=["res://.godot/imported/Terrarium.png-91c233892204ffde151f1fb7b21e1d73.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/48 Wargrub/Terrarium.png"
+dest_files=["res://.godot/imported/Terrarium.png-3422e0efbdf3a5e613b7d0160fb30b07.ctex"]
 
 [params]
 

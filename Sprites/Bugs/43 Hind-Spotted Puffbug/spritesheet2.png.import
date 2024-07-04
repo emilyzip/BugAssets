@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6fh2uik137cm"
-path="res://.godot/imported/spritesheet2.png-a8791ffacfa424d6f3e23306c0987b2d.ctex"
+path="res://.godot/imported/spritesheet2.png-479e50dacbd783b5442af824ad326dd2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/43 Hind-Spotted Puffbug/spritesheet2.png"
-dest_files=["res://.godot/imported/spritesheet2.png-a8791ffacfa424d6f3e23306c0987b2d.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/43 Hind-Spotted Puffbug/spritesheet2.png"
+dest_files=["res://.godot/imported/spritesheet2.png-479e50dacbd783b5442af824ad326dd2.ctex"]
 
 [params]
 

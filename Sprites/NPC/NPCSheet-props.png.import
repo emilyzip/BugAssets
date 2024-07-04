@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwvo3dfg2sk4f"
-path="res://.godot/imported/NPCSheet-props.png-3fa9b62c5961b82f6fe7aa0706793067.ctex"
+path="res://.godot/imported/NPCSheet-props.png-7f6f528922e1315665c9eb7933943e02.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/NPC/NPCSheet-props.png"
-dest_files=["res://.godot/imported/NPCSheet-props.png-3fa9b62c5961b82f6fe7aa0706793067.ctex"]
+source_file="res://BugAssets/Sprites/NPC/NPCSheet-props.png"
+dest_files=["res://.godot/imported/NPCSheet-props.png-7f6f528922e1315665c9eb7933943e02.ctex"]
 
 [params]
 

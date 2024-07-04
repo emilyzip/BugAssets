@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cll026ymccsk6"
-path="res://.godot/imported/Beetlestache.png-1c4051a73c3212b4aafd09b90459e1c0.ctex"
+path="res://.godot/imported/Beetlestache.png-cc32df31fa4a9ba9e2735cd6c3722d6b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/61 Golden Caribbean Beetlestache/Beetlestache.png"
-dest_files=["res://.godot/imported/Beetlestache.png-1c4051a73c3212b4aafd09b90459e1c0.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/61 Golden Caribbean Beetlestache/Beetlestache.png"
+dest_files=["res://.godot/imported/Beetlestache.png-cc32df31fa4a9ba9e2735cd6c3722d6b.ctex"]
 
 [params]
 

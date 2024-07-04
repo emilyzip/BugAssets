@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://361t5h3sav4g"
-path="res://.godot/imported/NeoBioHazardus-Background.png-0364846e0702a69907d4c911c9a00908.ctex"
+path="res://.godot/imported/NeoBioHazardus-Background.png-ea5fabb6e316bf353154de4639d35e69.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/31 Noxitidfly/NeoBioHazardus-Background.png"
-dest_files=["res://.godot/imported/NeoBioHazardus-Background.png-0364846e0702a69907d4c911c9a00908.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/31 Noxitidfly/NeoBioHazardus-Background.png"
+dest_files=["res://.godot/imported/NeoBioHazardus-Background.png-ea5fabb6e316bf353154de4639d35e69.ctex"]
 
 [params]
 

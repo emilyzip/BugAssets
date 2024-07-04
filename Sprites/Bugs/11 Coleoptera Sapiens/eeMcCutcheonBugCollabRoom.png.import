@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dlufgh4wx83aw"
-path="res://.godot/imported/eeMcCutcheonBugCollabRoom.png-74f1451c462f92d9551afc8c6e5e697c.ctex"
+path="res://.godot/imported/eeMcCutcheonBugCollabRoom.png-112cfe8072356986211dbe6665fe7358.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/11 Coleoptera Sapiens/eeMcCutcheonBugCollabRoom.png"
-dest_files=["res://.godot/imported/eeMcCutcheonBugCollabRoom.png-74f1451c462f92d9551afc8c6e5e697c.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/11 Coleoptera Sapiens/eeMcCutcheonBugCollabRoom.png"
+dest_files=["res://.godot/imported/eeMcCutcheonBugCollabRoom.png-112cfe8072356986211dbe6665fe7358.ctex"]
 
 [params]
 

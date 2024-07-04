@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://bvlfk1oi1h3ld"
-path="res://.godot/imported/UI_DialogProgression.mp3-0bebc0198bf4bab40b038c83a8705fd6.mp3str"
+path="res://.godot/imported/UI_DialogProgression.mp3-cb61e01da76d2b5c63b184a111607dec.mp3str"
 
 [deps]
 
-source_file="res://Assets/Audio/UI_DialogProgression.mp3"
-dest_files=["res://.godot/imported/UI_DialogProgression.mp3-0bebc0198bf4bab40b038c83a8705fd6.mp3str"]
+source_file="res://BugAssets/Audio/UI_DialogProgression.mp3"
+dest_files=["res://.godot/imported/UI_DialogProgression.mp3-cb61e01da76d2b5c63b184a111607dec.mp3str"]
 
 [params]
 

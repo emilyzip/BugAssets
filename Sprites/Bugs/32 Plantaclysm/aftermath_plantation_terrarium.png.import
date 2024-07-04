@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bd1pa1h2pymdn"
-path="res://.godot/imported/aftermath_plantation_terrarium.png-7d4c86d4faf91dc26a034dc65af10084.ctex"
+path="res://.godot/imported/aftermath_plantation_terrarium.png-19636894fd3a8e4aea4ba423b5e6080a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/32 Plantaclysm/aftermath_plantation_terrarium.png"
-dest_files=["res://.godot/imported/aftermath_plantation_terrarium.png-7d4c86d4faf91dc26a034dc65af10084.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/32 Plantaclysm/aftermath_plantation_terrarium.png"
+dest_files=["res://.godot/imported/aftermath_plantation_terrarium.png-19636894fd3a8e4aea4ba423b5e6080a.ctex"]
 
 [params]
 

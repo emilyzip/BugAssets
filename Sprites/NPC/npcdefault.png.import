@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c04ngpawfp4ut"
-path="res://.godot/imported/npcdefault.png-34c98a0cd2adb3bc43a2e2addbe3e978.ctex"
+path="res://.godot/imported/npcdefault.png-9a823bd3200249f51e73812b21e32744.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/NPC/npcdefault.png"
-dest_files=["res://.godot/imported/npcdefault.png-34c98a0cd2adb3bc43a2e2addbe3e978.ctex"]
+source_file="res://BugAssets/Sprites/NPC/npcdefault.png"
+dest_files=["res://.godot/imported/npcdefault.png-9a823bd3200249f51e73812b21e32744.ctex"]
 
 [params]
 

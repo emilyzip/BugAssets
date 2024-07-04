@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvtu6n3w8cxts"
-path="res://.godot/imported/Virtual_Insectity_-_Big.png-af10a606af6e03eeba3d6a66fa5bf7fc.ctex"
+path="res://.godot/imported/Virtual_Insectity_-_Big.png-998695cda7b7940d870f93983e04e724.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/10 Jay Kweevil/Virtual_Insectity_-_Big.png"
-dest_files=["res://.godot/imported/Virtual_Insectity_-_Big.png-af10a606af6e03eeba3d6a66fa5bf7fc.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/10 Jay Kweevil/Virtual_Insectity_-_Big.png"
+dest_files=["res://.godot/imported/Virtual_Insectity_-_Big.png-998695cda7b7940d870f93983e04e724.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0wo6huk4r2vp"
-path="res://.godot/imported/deeplabtiles.png-da702284adc0c613b99cfc2dfb3cb5da.ctex"
+path="res://.godot/imported/deeplabtiles.png-16cd1d9ade12ee02c66f7135a4d3f27e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Tilesets/deeplabtiles.png"
-dest_files=["res://.godot/imported/deeplabtiles.png-da702284adc0c613b99cfc2dfb3cb5da.ctex"]
+source_file="res://BugAssets/Sprites/Tilesets/deeplabtiles.png"
+dest_files=["res://.godot/imported/deeplabtiles.png-16cd1d9ade12ee02c66f7135a4d3f27e.ctex"]
 
 [params]
 

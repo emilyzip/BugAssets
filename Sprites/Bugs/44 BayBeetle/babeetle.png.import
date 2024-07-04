@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qu1ox6pik2gp"
-path="res://.godot/imported/babeetle.png-18f1d6099fc31e51d7a6ac4d56e8d920.ctex"
+path="res://.godot/imported/babeetle.png-d493adaa36033c23a5bd3803ea29f3c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/44 BayBeetle/babeetle.png"
-dest_files=["res://.godot/imported/babeetle.png-18f1d6099fc31e51d7a6ac4d56e8d920.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/44 BayBeetle/babeetle.png"
+dest_files=["res://.godot/imported/babeetle.png-d493adaa36033c23a5bd3803ea29f3c1.ctex"]
 
 [params]
 

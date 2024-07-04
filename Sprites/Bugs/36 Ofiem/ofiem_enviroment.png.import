@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3jmoermnqqq4"
-path="res://.godot/imported/ofiem_enviroment.png-67ad67efcda25505e210ca38f376688d.ctex"
+path="res://.godot/imported/ofiem_enviroment.png-4c5db5a2ce9e618efa24635e73fe2466.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/36 Ofiem/ofiem_enviroment.png"
-dest_files=["res://.godot/imported/ofiem_enviroment.png-67ad67efcda25505e210ca38f376688d.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/36 Ofiem/ofiem_enviroment.png"
+dest_files=["res://.godot/imported/ofiem_enviroment.png-4c5db5a2ce9e618efa24635e73fe2466.ctex"]
 
 [params]
 

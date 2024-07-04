@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsqy3atgj8nyv"
-path="res://.godot/imported/EclipseSkullBugTomDoy2.png-9b1dd419e61692ebf744553611a1d104.ctex"
+path="res://.godot/imported/EclipseSkullBugTomDoy2.png-c7387a55383e2b1af107fa86ad8d061b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/7 Eclipse Skull Bug/EclipseSkullBugTomDoy2.png"
-dest_files=["res://.godot/imported/EclipseSkullBugTomDoy2.png-9b1dd419e61692ebf744553611a1d104.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/7 Eclipse Skull Bug/EclipseSkullBugTomDoy2.png"
+dest_files=["res://.godot/imported/EclipseSkullBugTomDoy2.png-c7387a55383e2b1af107fa86ad8d061b.ctex"]
 
 [params]
 

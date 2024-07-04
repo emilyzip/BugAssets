@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfqfklxcnwnyo"
-path="res://.godot/imported/lazygeko_background.png-6f59ce54ac615bb119f4dd5e8a0e78f7.ctex"
+path="res://.godot/imported/lazygeko_background.png-a2e46e84e041fbe113c360e9842c19f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/29 Fomitato/lazygeko_background.png"
-dest_files=["res://.godot/imported/lazygeko_background.png-6f59ce54ac615bb119f4dd5e8a0e78f7.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/29 Fomitato/lazygeko_background.png"
+dest_files=["res://.godot/imported/lazygeko_background.png-a2e46e84e041fbe113c360e9842c19f4.ctex"]
 
 [params]
 

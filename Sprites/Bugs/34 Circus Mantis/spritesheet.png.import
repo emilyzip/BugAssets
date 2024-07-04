@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8gh8x1wl4ft1"
-path="res://.godot/imported/spritesheet.png-7a85879ea4639bc08fb0c446bb2d481a.ctex"
+path="res://.godot/imported/spritesheet.png-c5418b8469f4f9091f0a0c1f81bc3813.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/34 Circus Mantis/spritesheet.png"
-dest_files=["res://.godot/imported/spritesheet.png-7a85879ea4639bc08fb0c446bb2d481a.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/34 Circus Mantis/spritesheet.png"
+dest_files=["res://.godot/imported/spritesheet.png-c5418b8469f4f9091f0a0c1f81bc3813.ctex"]
 
 [params]
 

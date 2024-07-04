@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmibyiml74ydl"
-path="res://.godot/imported/creditsbutton.png-56bcfe3eaa08b00795d0249a81f210d7.ctex"
+path="res://.godot/imported/creditsbutton.png-c137856e3ce28904a5d5f675734c510d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/UI/Menu Buttons/creditsbutton.png"
-dest_files=["res://.godot/imported/creditsbutton.png-56bcfe3eaa08b00795d0249a81f210d7.ctex"]
+source_file="res://BugAssets/Sprites/UI/Menu Buttons/creditsbutton.png"
+dest_files=["res://.godot/imported/creditsbutton.png-c137856e3ce28904a5d5f675734c510d.ctex"]
 
 [params]
 

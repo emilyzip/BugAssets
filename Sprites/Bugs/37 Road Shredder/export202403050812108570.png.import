@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://m7xtvbyvtut3"
-path="res://.godot/imported/export202403050812108570.png-765b07417da4122fee36cf517bf717af.ctex"
+path="res://.godot/imported/export202403050812108570.png-8fd64cf3d0a2bd7d285d238856b269ce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/37 Road Shredder/export202403050812108570.png"
-dest_files=["res://.godot/imported/export202403050812108570.png-765b07417da4122fee36cf517bf717af.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/37 Road Shredder/export202403050812108570.png"
+dest_files=["res://.godot/imported/export202403050812108570.png-8fd64cf3d0a2bd7d285d238856b269ce.ctex"]
 
 [params]
 

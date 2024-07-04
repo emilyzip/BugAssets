@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://ev8rmni658u0"
-path="res://.godot/imported/DOOR_EnterExit.mp3-4fac4ac0262b648d09d93b2382ad32cc.mp3str"
+path="res://.godot/imported/DOOR_EnterExit.mp3-1509fb2a9a920526312af0c2db1d3f55.mp3str"
 
 [deps]
 
-source_file="res://Assets/Audio/DOOR_EnterExit.mp3"
-dest_files=["res://.godot/imported/DOOR_EnterExit.mp3-4fac4ac0262b648d09d93b2382ad32cc.mp3str"]
+source_file="res://BugAssets/Audio/DOOR_EnterExit.mp3"
+dest_files=["res://.godot/imported/DOOR_EnterExit.mp3-1509fb2a9a920526312af0c2db1d3f55.mp3str"]
 
 [params]
 

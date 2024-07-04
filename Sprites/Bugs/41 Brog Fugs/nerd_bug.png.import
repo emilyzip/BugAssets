@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dh0fg7f7vo6rg"
-path="res://.godot/imported/nerd_bug.png-e3cc2f885e6b1170ac9f78125b7b4b22.ctex"
+path="res://.godot/imported/nerd_bug.png-a37b4a6c38242f32851508789881c002.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/41 Brog Fugs/nerd_bug.png"
-dest_files=["res://.godot/imported/nerd_bug.png-e3cc2f885e6b1170ac9f78125b7b4b22.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/41 Brog Fugs/nerd_bug.png"
+dest_files=["res://.godot/imported/nerd_bug.png-a37b4a6c38242f32851508789881c002.ctex"]
 
 [params]
 

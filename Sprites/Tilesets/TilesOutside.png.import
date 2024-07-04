@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bombrg7h88oe3"
-path="res://.godot/imported/TilesOutside.png-fa9310dbd2e7458c47a2d2a46e7f1627.ctex"
+path="res://.godot/imported/TilesOutside.png-b1547be74b147595a11e6859420f896f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Tilesets/TilesOutside.png"
-dest_files=["res://.godot/imported/TilesOutside.png-fa9310dbd2e7458c47a2d2a46e7f1627.ctex"]
+source_file="res://BugAssets/Sprites/Tilesets/TilesOutside.png"
+dest_files=["res://.godot/imported/TilesOutside.png-b1547be74b147595a11e6859420f896f.ctex"]
 
 [params]
 

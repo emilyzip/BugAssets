@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://s3gujbskao37"
-path="res://.godot/imported/176_Sem_Titulo_20240307181045.png-4839e1671fb453b29f5dc680046f0e67.ctex"
+path="res://.godot/imported/176_Sem_Titulo_20240307181045.png-4a067cff38c88ea333e42253d65b9bcb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/51 GR4V3 VV4SP/176_Sem_Titulo_20240307181045.png"
-dest_files=["res://.godot/imported/176_Sem_Titulo_20240307181045.png-4839e1671fb453b29f5dc680046f0e67.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/51 GR4V3 VV4SP/176_Sem_Titulo_20240307181045.png"
+dest_files=["res://.godot/imported/176_Sem_Titulo_20240307181045.png-4a067cff38c88ea333e42253d65b9bcb.ctex"]
 
 [params]
 

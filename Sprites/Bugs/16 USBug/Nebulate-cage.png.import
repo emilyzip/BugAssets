@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dc7rgiwj4s5i4"
-path="res://.godot/imported/Nebulate-cage.png-512105abca05f16ae497490396a94cb6.ctex"
+path="res://.godot/imported/Nebulate-cage.png-294326d68c48844ead36f333129f9a41.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/16 USBug/Nebulate-cage.png"
-dest_files=["res://.godot/imported/Nebulate-cage.png-512105abca05f16ae497490396a94cb6.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/16 USBug/Nebulate-cage.png"
+dest_files=["res://.godot/imported/Nebulate-cage.png-294326d68c48844ead36f333129f9a41.ctex"]
 
 [params]
 

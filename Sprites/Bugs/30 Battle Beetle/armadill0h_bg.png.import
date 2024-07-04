@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cr1cy71h8beuv"
-path="res://.godot/imported/armadill0h_bg.png-050d53864b1e57644b5cdc1b5f4d0d00.ctex"
+path="res://.godot/imported/armadill0h_bg.png-0848e7a6a5900615991378d802d67c49.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/30 Battle Beetle/armadill0h_bg.png"
-dest_files=["res://.godot/imported/armadill0h_bg.png-050d53864b1e57644b5cdc1b5f4d0d00.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/30 Battle Beetle/armadill0h_bg.png"
+dest_files=["res://.godot/imported/armadill0h_bg.png-0848e7a6a5900615991378d802d67c49.ctex"]
 
 [params]
 

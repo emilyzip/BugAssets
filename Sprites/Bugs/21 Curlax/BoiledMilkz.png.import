@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgacqnrwc6i2c"
-path="res://.godot/imported/BoiledMilkz.png-9c9276dcdc08842e6fbc159259773515.ctex"
+path="res://.godot/imported/BoiledMilkz.png-baa80945bb7fde42bd4d4dd7711766cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/21 Curlax/BoiledMilkz.png"
-dest_files=["res://.godot/imported/BoiledMilkz.png-9c9276dcdc08842e6fbc159259773515.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/21 Curlax/BoiledMilkz.png"
+dest_files=["res://.godot/imported/BoiledMilkz.png-baa80945bb7fde42bd4d4dd7711766cc.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bituoebuup0e5"
-path="res://.godot/imported/spritesheet.png-901e4eb6ff230912568cc2ab360b0231.ctex"
+path="res://.godot/imported/spritesheet.png-e0fcaa3d7356eebae442b381642b3588.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/4 Bubblegum/spritesheet.png"
-dest_files=["res://.godot/imported/spritesheet.png-901e4eb6ff230912568cc2ab360b0231.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/4 Bubblegum/spritesheet.png"
+dest_files=["res://.godot/imported/spritesheet.png-e0fcaa3d7356eebae442b381642b3588.ctex"]
 
 [params]
 

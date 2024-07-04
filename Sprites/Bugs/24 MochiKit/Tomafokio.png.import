@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://v2l2wnyo11o5"
-path="res://.godot/imported/Tomafokio.png-3688eea1bc2ef2aeeaaa688252d3b934.ctex"
+path="res://.godot/imported/Tomafokio.png-01bea4af76b2160606461a780f536f48.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/24 MochiKit/Tomafokio.png"
-dest_files=["res://.godot/imported/Tomafokio.png-3688eea1bc2ef2aeeaaa688252d3b934.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/24 MochiKit/Tomafokio.png"
+dest_files=["res://.godot/imported/Tomafokio.png-01bea4af76b2160606461a780f536f48.ctex"]
 
 [params]
 

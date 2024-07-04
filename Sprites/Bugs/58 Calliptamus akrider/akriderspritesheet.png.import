@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d30eo4dua547i"
-path="res://.godot/imported/akriderspritesheet.png-25165c5d87ce4a0ffc5be8215d68249c.ctex"
+path="res://.godot/imported/akriderspritesheet.png-e7d6be0a800f762cfd24f0850c2a2dd9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/58 Calliptamus akrider/akriderspritesheet.png"
-dest_files=["res://.godot/imported/akriderspritesheet.png-25165c5d87ce4a0ffc5be8215d68249c.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/58 Calliptamus akrider/akriderspritesheet.png"
+dest_files=["res://.godot/imported/akriderspritesheet.png-e7d6be0a800f762cfd24f0850c2a2dd9.ctex"]
 
 [params]
 

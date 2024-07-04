@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3yrct41ftw6u"
-path="res://.godot/imported/WE-export.png-0a199925b7ae74cbb59fe2c625da2077.ctex"
+path="res://.godot/imported/WE-export.png-7885db14e2200dc1ac27e4a13edb824d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/NPC/WE-export.png"
-dest_files=["res://.godot/imported/WE-export.png-0a199925b7ae74cbb59fe2c625da2077.ctex"]
+source_file="res://BugAssets/Sprites/NPC/WE-export.png"
+dest_files=["res://.godot/imported/WE-export.png-7885db14e2200dc1ac27e4a13edb824d.ctex"]
 
 [params]
 

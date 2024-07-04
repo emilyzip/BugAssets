@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dquv2su4s6ehb"
-path="res://.godot/imported/shroomhat.png-4150ef369b060ddfcaf62a8f8e5e28b9.ctex"
+path="res://.godot/imported/shroomhat.png-d8e357595b51404cfdf3176b55aec1a7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/27 Shroomhat/shroomhat.png"
-dest_files=["res://.godot/imported/shroomhat.png-4150ef369b060ddfcaf62a8f8e5e28b9.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/27 Shroomhat/shroomhat.png"
+dest_files=["res://.godot/imported/shroomhat.png-d8e357595b51404cfdf3176b55aec1a7.ctex"]
 
 [params]
 

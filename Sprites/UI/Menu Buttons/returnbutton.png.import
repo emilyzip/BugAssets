@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmndtjkh1vidh"
-path="res://.godot/imported/returnbutton.png-80e3a5965e6bbc96e982eab4b892b05a.ctex"
+path="res://.godot/imported/returnbutton.png-e452eabbb6bd78ee7bfaa5a976f606e3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/UI/Menu Buttons/returnbutton.png"
-dest_files=["res://.godot/imported/returnbutton.png-80e3a5965e6bbc96e982eab4b892b05a.ctex"]
+source_file="res://BugAssets/Sprites/UI/Menu Buttons/returnbutton.png"
+dest_files=["res://.godot/imported/returnbutton.png-e452eabbb6bd78ee7bfaa5a976f606e3.ctex"]
 
 [params]
 

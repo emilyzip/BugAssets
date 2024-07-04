@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpuupam1k4nbv"
-path="res://.godot/imported/HOUSEalt.png-f76a90e80741f56ed5d80fc5fed87d2c.ctex"
+path="res://.godot/imported/HOUSEalt.png-7c66846863ebb5274bd68eb6a508a70a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/HOUSEalt.png"
-dest_files=["res://.godot/imported/HOUSEalt.png-f76a90e80741f56ed5d80fc5fed87d2c.ctex"]
+source_file="res://BugAssets/Sprites/HOUSEalt.png"
+dest_files=["res://.godot/imported/HOUSEalt.png-7c66846863ebb5274bd68eb6a508a70a.ctex"]
 
 [params]
 

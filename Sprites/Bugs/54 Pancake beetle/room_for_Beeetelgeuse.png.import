@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b383h4j4y4x6r"
-path="res://.godot/imported/room_for_Beeetelgeuse.png-d34341b6160f46c99cd2f30e5eb272aa.ctex"
+path="res://.godot/imported/room_for_Beeetelgeuse.png-a1ede78462d6121101afa0fdfbf86301.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/54 Pancake beetle/room_for_Beeetelgeuse.png"
-dest_files=["res://.godot/imported/room_for_Beeetelgeuse.png-d34341b6160f46c99cd2f30e5eb272aa.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/54 Pancake beetle/room_for_Beeetelgeuse.png"
+dest_files=["res://.godot/imported/room_for_Beeetelgeuse.png-a1ede78462d6121101afa0fdfbf86301.ctex"]
 
 [params]
 

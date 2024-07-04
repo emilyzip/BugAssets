@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bri6x47u6pfay"
-path="res://.godot/imported/Quest_Hopper_Terrariuml.png-94f4e15440084e6b6267457836568171.ctex"
+path="res://.godot/imported/Quest_Hopper_Terrariuml.png-84ad56be5b76b4e5f79e57070c626ed1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/46 QuestHopper/Quest_Hopper_Terrariuml.png"
-dest_files=["res://.godot/imported/Quest_Hopper_Terrariuml.png-94f4e15440084e6b6267457836568171.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/46 QuestHopper/Quest_Hopper_Terrariuml.png"
+dest_files=["res://.godot/imported/Quest_Hopper_Terrariuml.png-84ad56be5b76b4e5f79e57070c626ed1.ctex"]
 
 [params]
 

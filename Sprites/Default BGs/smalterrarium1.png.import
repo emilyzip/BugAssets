@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh2u7n3sqot8v"
-path="res://.godot/imported/smalterrarium1.png-2f0d919de1ee254e24160fde766b267d.ctex"
+path="res://.godot/imported/smalterrarium1.png-cca357854d0ee71cb4d4cd514ee64861.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Default BGs/smalterrarium1.png"
-dest_files=["res://.godot/imported/smalterrarium1.png-2f0d919de1ee254e24160fde766b267d.ctex"]
+source_file="res://BugAssets/Sprites/Default BGs/smalterrarium1.png"
+dest_files=["res://.godot/imported/smalterrarium1.png-cca357854d0ee71cb4d4cd514ee64861.ctex"]
 
 [params]
 

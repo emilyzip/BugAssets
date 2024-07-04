@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://he8i3hs5nv5j"
-path="res://.godot/imported/purpleField.png-2267226b4ad30c145da868fb03f1b498.ctex"
+path="res://.godot/imported/purpleField.png-5eca6af26ed06b7032f1778dc73e9998.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/27 Shroomhat/purpleField.png"
-dest_files=["res://.godot/imported/purpleField.png-2267226b4ad30c145da868fb03f1b498.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/27 Shroomhat/purpleField.png"
+dest_files=["res://.godot/imported/purpleField.png-5eca6af26ed06b7032f1778dc73e9998.ctex"]
 
 [params]
 

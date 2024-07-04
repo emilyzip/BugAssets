@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctbp2qmiygq80"
-path="res://.godot/imported/StormyDew.png-ccf0b560ee69561f0899cb40a68fba4c.ctex"
+path="res://.godot/imported/StormyDew.png-065dc93b6ecc48ea49e5f376f1a87486.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/12 Glass Orchid Mantis/StormyDew.png"
-dest_files=["res://.godot/imported/StormyDew.png-ccf0b560ee69561f0899cb40a68fba4c.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/12 Glass Orchid Mantis/StormyDew.png"
+dest_files=["res://.godot/imported/StormyDew.png-065dc93b6ecc48ea49e5f376f1a87486.ctex"]
 
 [params]
 

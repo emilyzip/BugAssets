@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhp8jh3qkhv1b"
-path="res://.godot/imported/asteybug.png-9281af45e12409d4b0b692951816b3ac.ctex"
+path="res://.godot/imported/asteybug.png-e7d95e202a4229ba5a0af7140ba5729e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/49 Volkswagen Beetle/asteybug.png"
-dest_files=["res://.godot/imported/asteybug.png-9281af45e12409d4b0b692951816b3ac.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/49 Volkswagen Beetle/asteybug.png"
+dest_files=["res://.godot/imported/asteybug.png-e7d95e202a4229ba5a0af7140ba5729e.ctex"]
 
 [params]
 

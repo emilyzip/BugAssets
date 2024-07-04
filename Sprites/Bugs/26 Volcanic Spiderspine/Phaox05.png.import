@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs26fwm7klmmu"
-path="res://.godot/imported/Phaox05.png-94846c01f585f9f4753b4922feb70608.ctex"
+path="res://.godot/imported/Phaox05.png-bdf27e10cca7eb5025b5b82dac091b1a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/26 Volcanic Spiderspine/Phaox05.png"
-dest_files=["res://.godot/imported/Phaox05.png-94846c01f585f9f4753b4922feb70608.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/26 Volcanic Spiderspine/Phaox05.png"
+dest_files=["res://.godot/imported/Phaox05.png-bdf27e10cca7eb5025b5b82dac091b1a.ctex"]
 
 [params]
 

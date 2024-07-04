@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://der4rq3nwrha8"
-path="res://.godot/imported/bg.png-7a980b9f51de0247c21621b342af8757.ctex"
+path="res://.godot/imported/bg.png-82cb1130a06dee5d280af5984a84f249.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/60 Asher/bg.png"
-dest_files=["res://.godot/imported/bg.png-7a980b9f51de0247c21621b342af8757.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/60 Asher/bg.png"
+dest_files=["res://.godot/imported/bg.png-82cb1130a06dee5d280af5984a84f249.ctex"]
 
 [params]
 

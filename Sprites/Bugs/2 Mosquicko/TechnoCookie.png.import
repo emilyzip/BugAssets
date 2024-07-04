@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rymoy8a0uh55"
-path="res://.godot/imported/TechnoCookie.png-43c4cd80068ba607ab996b2bcd870977.ctex"
+path="res://.godot/imported/TechnoCookie.png-5eb739a712e8a4d0f847b55600633372.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/2 Mosquicko/TechnoCookie.png"
-dest_files=["res://.godot/imported/TechnoCookie.png-43c4cd80068ba607ab996b2bcd870977.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/2 Mosquicko/TechnoCookie.png"
+dest_files=["res://.godot/imported/TechnoCookie.png-5eb739a712e8a4d0f847b55600633372.ctex"]
 
 [params]
 

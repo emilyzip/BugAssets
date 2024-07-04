@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wqxc817mef7v"
-path="res://.godot/imported/Sprite-0013.png-8b0cd3f3481195aabd91215feae11896.ctex"
+path="res://.godot/imported/Sprite-0013.png-46d8ecd922dd5e992d22a886aefb96ef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/38 Pot Mites/Sprite-0013.png"
-dest_files=["res://.godot/imported/Sprite-0013.png-8b0cd3f3481195aabd91215feae11896.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/38 Pot Mites/Sprite-0013.png"
+dest_files=["res://.godot/imported/Sprite-0013.png-46d8ecd922dd5e992d22a886aefb96ef.ctex"]
 
 [params]
 

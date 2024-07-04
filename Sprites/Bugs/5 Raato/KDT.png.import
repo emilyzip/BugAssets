@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5dy8hc2kbv18"
-path="res://.godot/imported/KDT.png-5421471f7a7d788dcc98bf561c386766.ctex"
+path="res://.godot/imported/KDT.png-93be05b837896fa683a4b5f92080b47f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/5 Raato/KDT.png"
-dest_files=["res://.godot/imported/KDT.png-5421471f7a7d788dcc98bf561c386766.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/5 Raato/KDT.png"
+dest_files=["res://.godot/imported/KDT.png-93be05b837896fa683a4b5f92080b47f.ctex"]
 
 [params]
 

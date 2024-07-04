@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbyixvjw8mcbd"
-path="res://.godot/imported/spritesheet.png-3c98db28b7ff7008087f717cf0b344e8.ctex"
+path="res://.godot/imported/spritesheet.png-f3acca82403bf326adb39df3bcc8b093.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/42 freek/spritesheet.png"
-dest_files=["res://.godot/imported/spritesheet.png-3c98db28b7ff7008087f717cf0b344e8.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/42 freek/spritesheet.png"
+dest_files=["res://.godot/imported/spritesheet.png-f3acca82403bf326adb39df3bcc8b093.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://v2y1e0e23t6f"
-path="res://.godot/imported/mediumterrarium2.png-b97fb435357de17aecd56ed1320ba551.ctex"
+path="res://.godot/imported/mediumterrarium2.png-cccce411e63358d62ae176a1d884a735.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Default BGs/mediumterrarium2.png"
-dest_files=["res://.godot/imported/mediumterrarium2.png-b97fb435357de17aecd56ed1320ba551.ctex"]
+source_file="res://BugAssets/Sprites/Default BGs/mediumterrarium2.png"
+dest_files=["res://.godot/imported/mediumterrarium2.png-cccce411e63358d62ae176a1d884a735.ctex"]
 
 [params]
 

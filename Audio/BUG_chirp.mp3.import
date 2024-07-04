@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://1swx2c1jp73n"
-path="res://.godot/imported/BUG_chirp.mp3-64a49ee96b8801a4659dbdfbd76ecc33.mp3str"
+path="res://.godot/imported/BUG_chirp.mp3-e43021ee03915c22f106411f05c3aa7a.mp3str"
 
 [deps]
 
-source_file="res://Assets/Audio/BUG_chirp.mp3"
-dest_files=["res://.godot/imported/BUG_chirp.mp3-64a49ee96b8801a4659dbdfbd76ecc33.mp3str"]
+source_file="res://BugAssets/Audio/BUG_chirp.mp3"
+dest_files=["res://.godot/imported/BUG_chirp.mp3-e43021ee03915c22f106411f05c3aa7a.mp3str"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5ul7milny5d6"
-path="res://.godot/imported/Deaddew_Enviro.png-60fcf65f9da32b279624f335dec6f201.ctex"
+path="res://.godot/imported/Deaddew_Enviro.png-17e8fdee7cbab6d8b4b91a1ec557c4fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/8 Deaddew Wasp/Deaddew_Enviro.png"
-dest_files=["res://.godot/imported/Deaddew_Enviro.png-60fcf65f9da32b279624f335dec6f201.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/8 Deaddew Wasp/Deaddew_Enviro.png"
+dest_files=["res://.godot/imported/Deaddew_Enviro.png-17e8fdee7cbab6d8b4b91a1ec557c4fc.ctex"]
 
 [params]
 

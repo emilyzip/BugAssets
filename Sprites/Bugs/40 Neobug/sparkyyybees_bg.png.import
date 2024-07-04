@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bl3rlj60gu08l"
-path="res://.godot/imported/sparkyyybees_bg.png-7f0d3fbca565b208f43cd3f9a8beea7a.ctex"
+path="res://.godot/imported/sparkyyybees_bg.png-098522f7939243fe7a0e9a9390ccda06.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/40 Neobug/sparkyyybees_bg.png"
-dest_files=["res://.godot/imported/sparkyyybees_bg.png-7f0d3fbca565b208f43cd3f9a8beea7a.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/40 Neobug/sparkyyybees_bg.png"
+dest_files=["res://.godot/imported/sparkyyybees_bg.png-098522f7939243fe7a0e9a9390ccda06.ctex"]
 
 [params]
 

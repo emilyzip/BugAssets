@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dn14crn7056pd"
-path="res://.godot/imported/Jay_Kweevil.png-27ea641b2ca70401a34895d757307909.ctex"
+path="res://.godot/imported/Jay_Kweevil.png-414e4a9bdcf5d80367f05cf06e624b83.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/10 Jay Kweevil/Jay_Kweevil.png"
-dest_files=["res://.godot/imported/Jay_Kweevil.png-27ea641b2ca70401a34895d757307909.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/10 Jay Kweevil/Jay_Kweevil.png"
+dest_files=["res://.godot/imported/Jay_Kweevil.png-414e4a9bdcf5d80367f05cf06e624b83.ctex"]
 
 [params]
 

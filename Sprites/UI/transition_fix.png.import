@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhh2eudtsrhmy"
-path="res://.godot/imported/transition_fix.png-a2732056d91cf0a144e22814e2495cb5.ctex"
+path="res://.godot/imported/transition_fix.png-5f85d156ff6db6217f331036a6a30bbb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/UI/transition_fix.png"
-dest_files=["res://.godot/imported/transition_fix.png-a2732056d91cf0a144e22814e2495cb5.ctex"]
+source_file="res://BugAssets/Sprites/UI/transition_fix.png"
+dest_files=["res://.godot/imported/transition_fix.png-5f85d156ff6db6217f331036a6a30bbb.ctex"]
 
 [params]
 

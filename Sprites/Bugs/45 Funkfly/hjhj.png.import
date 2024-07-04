@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db5jqxhf7t58q"
-path="res://.godot/imported/hjhj.png-15483fce453522bc7cae8545a8629858.ctex"
+path="res://.godot/imported/hjhj.png-d44925d9ddf1cfec8f1b2f373b864430.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Bugs/45 Funkfly/hjhj.png"
-dest_files=["res://.godot/imported/hjhj.png-15483fce453522bc7cae8545a8629858.ctex"]
+source_file="res://BugAssets/Sprites/Bugs/45 Funkfly/hjhj.png"
+dest_files=["res://.godot/imported/hjhj.png-d44925d9ddf1cfec8f1b2f373b864430.ctex"]
 
 [params]
 

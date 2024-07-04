@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cv5xml5458w3m"
-path="res://.godot/imported/Terminal_animated.png-8b26891efadf772b010bef91241f0f63.ctex"
+path="res://.godot/imported/Terminal_animated.png-45b5423511658b41bdc034b4f2c83467.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/NPC/Terminal_animated.png"
-dest_files=["res://.godot/imported/Terminal_animated.png-8b26891efadf772b010bef91241f0f63.ctex"]
+source_file="res://BugAssets/Sprites/NPC/Terminal_animated.png"
+dest_files=["res://.godot/imported/Terminal_animated.png-45b5423511658b41bdc034b4f2c83467.ctex"]
 
 [params]
 
